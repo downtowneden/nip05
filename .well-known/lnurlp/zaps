@@ -1,12 +1,13 @@
 {
-  "allowsNostr": true,
+  "callback": "https://rizful.com/lnurl_two/eden/get_invoice",
   "minSendable": 1000,
-  "maxSendable": 100000000000,
-  "metadata": "[[\"text/plain\",\"Paying eden@coinos.io\"],[\"text/identifier\",\"eden@coinos.io\"]]",
-  "nostrPubkey": "72bdbc57bdd6dfc4e62685051de8041d148c3c68fe42bf301f71aa6cf53e52fb",
-  "commentAllowed": 512,
-  "callback": "https://coinos.io/api/lnurl/bd5069c2-b9c2-4877-a7e6-f14c10ae887a",
+  "maxSendable": 25000000000,
+  "status": "OK",
   "tag": "payRequest",
-  "domain": "coinos.io",
+  "metadata": "[[\"text/plain\",\"Pay Rizful User\"],[\"text/identifier\",\"eden@rizful.com\"]]",
+  "allowsNostr": true,
+  "nostrPubkey": "b88072bbb0bc5fb829123c6b3817b30b37887d1d1a3a5005bab11216676ea32a",
+  "commentAllowed": 224,
+  "domain": "rizful.com",
   "username": "eden"
 }
