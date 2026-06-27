@@ -1,0 +1,17 @@
+{
+  "names": {
+    "eve": "c2b444c5932edfac115671e134fe2f312554a48a02b63ed1d00f0c7476213367",
+    "_": "c2b444c5932edfac115671e134fe2f312554a48a02b63ed1d00f0c7476213367",
+    "eden": "c2b444c5932edfac115671e134fe2f312554a48a02b63ed1d00f0c7476213367"
+           },
+"relays": {
+    "c2b444c5932edfac115671e134fe2f312554a48a02b63ed1d00f0c7476213367": [
+      "wss://relay.primal.net",
+      "wss://nos.lol",
+      "wss://relay.damus.io",
+      "wss://relay.nostr.band",
+      "wss://nostr.wine",
+      "wss://nostr.land"
+    ]
+  }  
+}
