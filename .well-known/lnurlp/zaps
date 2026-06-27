@@ -1,0 +1,8 @@
+{
+	"callback":"https://coinos.io/api/lnurl/bd5069c2-b9c2-4877-a7e6-f14c10ae887a",
+	"maxSendable":100000000000,
+	"minSendable":1000,
+	"metadata":"[[\"text/plain\",\"Sats for eden\"],[\"text/identifier\",\"eden@coinos.io"]]",
+	"commentAllowed":512,
+	"tag":"payRequest"
+} 
